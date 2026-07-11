@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello l.txt hi
-=======
 hello from yadalli
->>>>>>> feature
